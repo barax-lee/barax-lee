@@ -1,29 +1,39 @@
-# Hi there! 👋
+# Hi there, I'm Lee! 👋
 
-## 👨‍💻 About Me
+### 💻 IT Professional | Software Developer | AI Enthusiast
 
-I'm a passionate technology enthusiast and software developer who enjoys building practical solutions to real-world problems.
+I'm passionate about technology, innovation, and building practical solutions that address real-world challenges. I enjoy working with software development, artificial intelligence, machine learning, and IT infrastructure.
 
-- 🔭 I'm currently working on software development and AI projects.
-- 🌱 I'm continuously learning new technologies and improving my skills.
-- 🤝 I'm open to collaborating on open-source projects.
-- 💡 I'm interested in Artificial Intelligence, Web Development, and Cloud Computing.
-- 🚀 My goal is to build technology that makes a positive impact.
+- 🔭 Currently working on AI-powered applications and open-source projects.
+- 🌱 Exploring cloud computing, machine learning, and modern software development.
+- 👯 Open to collaborating on innovative tech projects.
+- 💡 Interested in using technology to create positive impact in African communities.
+- ⚡ I believe in learning by building.
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies & Tools
 
-**Languages:** Python, JavaScript, HTML, CSS
+**Programming:** Python, JavaScript, HTML, CSS
 
-**Frameworks & Tools:** Django, Git, GitHub, VS Code
+**Development:** Django, Git, GitHub, VS Code
 
-**Areas of Interest:** AI, Machine Learning, Web Development, Cloud Computing
+**Other interests:** Artificial Intelligence, Machine Learning, Networking, Cloud Computing
 
-## 📫 Connect With Me
+## 🚀 Featured Projects
 
-- LinkedIn: Add your LinkedIn URL
-- Email: Add your professional email
-- Portfolio: Add your website URL
+- **CleanCity AI** — AI-powered community cleanliness and environmental reporting.
+- **Nile Pay** — A digital payment solution.
+- **JARVIS Desktop Assistant** — A desktop AI assistant.
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=barax-lee&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barax-lee&layout=compact&theme=tokyonight)
+
+## 🤝 Let's Connect
+
+I'm always open to learning, collaborating, and exploring opportunities in technology.
 
 ---
 
-*Always learning, building, and growing.*
+*Building, learning, and creating impact through technology.*
