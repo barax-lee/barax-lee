@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**barax-lee/barax-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+I'm a passionate technology enthusiast and software developer who enjoys building practical solutions to real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on software development and AI projects.
+- 🌱 I'm continuously learning new technologies and improving my skills.
+- 🤝 I'm open to collaborating on open-source projects.
+- 💡 I'm interested in Artificial Intelligence, Web Development, and Cloud Computing.
+- 🚀 My goal is to build technology that makes a positive impact.
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, JavaScript, HTML, CSS
+
+**Frameworks & Tools:** Django, Git, GitHub, VS Code
+
+**Areas of Interest:** AI, Machine Learning, Web Development, Cloud Computing
+
+## 📫 Connect With Me
+
+- LinkedIn: Add your LinkedIn URL
+- Email: Add your professional email
+- Portfolio: Add your website URL
+
+---
+
+*Always learning, building, and growing.*
